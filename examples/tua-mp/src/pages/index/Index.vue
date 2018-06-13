@@ -41,7 +41,7 @@
     </i-panel>
     <i-panel title="操作反馈">
         <i-cell-group>
-            <i-cell title="ActionSheer 动作面板" is-link url="/pages/action-sheet/action-sheet"></i-cell>
+            <i-cell title="ActionSheet 动作面板" is-link url="/pages/action-sheet/action-sheet"></i-cell>
             <i-cell title="Toast 轻提示" is-link url="/pages/toast/toast"></i-cell>
             <i-cell title="Modal 对话框" is-link url="/pages/modal/modal"></i-cell>
             <i-cell title="Message 全局提醒" is-link url="/pages/message/message"></i-cell>
